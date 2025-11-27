@@ -1,0 +1,71 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Granos"
+    },
+    {
+      "id": 2,
+      "name": "Lácteos"
+    },
+    {
+      "id": 3,
+      "name": "Bebidas"
+    },
+    {
+      "id": 4,
+      "name": "Snacks"
+    },
+    {
+      "id": 5,
+      "name": "Verduras"
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Arroz Premium 1kg",
+      "description": "Arroz blanco de grano largo, ideal para comidas diarias.",
+      "price": 1.8,
+      "stock": 50,
+      "categoryId": 1,
+      "image": "https://www.supermaxi.com/wp-content/uploads/2025/07/7861007200120-1-4.jpg.webp"
+    },
+    {
+      "id": 102,
+      "name": "Leche Entera 1L",
+      "description": "Leche entera pasteurizada de alta calidad.",
+      "price": 1.25,
+      "stock": 20,
+      "categoryId": 2,
+      "image": "https://www.supermaxi.com/wp-content/uploads/2024/08/7861012510511-1-4.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Jugo de Naranja 1L",
+      "description": "Bebida refrescante sin colorantes artificiales.",
+      "price": 1.95,
+      "stock": 30,
+      "categoryId": 3,
+      "image": "https://www.fybeca.com/on/demandware.static/-/Sites-masterCatalog_FybecaEcuador/default/dw154d28bf/images/large/17029_1.jpg"
+    },
+    {
+      "id": 104,
+      "name": "Galletas ChocoMax",
+      "description": "Galletas con chispas de chocolate para toda ocasión.",
+      "price": 0.85,
+      "stock": 60,
+      "categoryId": 4,
+      "image": "https://alsuper.online/products/391232.png"
+    },
+    {
+      "id": 105,
+      "name": "Tomate Riñón 1kg",
+      "description": "Tomates frescos seleccionados.",
+      "price": 1.1,
+      "stock": 40,
+      "categoryId": 5,
+      "image": "https://www.organiclife.ec/wp-content/uploads/2015/02/tomate.png"
+    }
+  ]
+}
