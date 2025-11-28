@@ -1,8 +1,8 @@
 // db.js — conexión moderna a MongoDB (Mongoose 7+)
 import mongoose from "mongoose";
-import dotenv from "dotenv";
+//import dotenv from "dotenv";
 
-dotenv.config(); // carga las variables del archivo .env
+//dotenv.config(); // carga las variables del archivo .env
 
 export async function connectDB() {
   try {
